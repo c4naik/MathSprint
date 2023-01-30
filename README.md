@@ -1,1 +1,1 @@
-# DBMS_Test_Application
+# MathSprint- a Short Math Quiz Platform
